@@ -123,7 +123,7 @@ set go-=L
 
 
 "Vundle Settings {
-set rtp+=~/.vim/bundle/Vundle.vim/
+set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 
 Bundle 'gmarik/vundle'
